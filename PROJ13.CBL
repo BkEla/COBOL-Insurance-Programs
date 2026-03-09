@@ -12,7 +12,7 @@
 001200*  REPORT INCLUDES INSURED NAME, POLICY #, STATE, CLAIM #,                    
 001300*  DATE OF LOSS AND EFFECTIVE DATE.                                           
 001400*                                                                           
-001500*  WRITTEN BY: BIRUK AYALEW                                                                            
+001500*                                                                            
 001600*  FILES:                                                                     
 001700*  INFORCE:                                                                   
 001800*         *MULTI/FILE/KIO ON DISK           (INPUT)                            
@@ -550,4 +550,5 @@
 055300 7099-CLOSING-PROCEDURE-X.                                                    
 055400     EXIT.                                                                    
 055500*****************************************************************             
+
 
